@@ -1,5 +1,5 @@
-## 작성 소스
-- [App.java](https://github.com/yongbeom76/study_javas/blob/master/src/App.java) : 기본소스.
-- [AddAB.java](https://github.com/yongbeom76/study_javas/blob/master/src/AddAB.java) : 두 변수를 합함.
+###백준 Coding Test
 
-
+| 분류     | 주제 | 일반(코드)                                      | 함수(코드)                                      | 설명           |
+| -------- | ---- | ----------------------------------------------- | ----------------------------------------------- | -------------- |
+| 사친연산 | 덧셈 | [java](https://www.acmicpc.net/source/51270593) | [java](https://www.acmicpc.net/source/51269795) | 두 정수를 합함 |
