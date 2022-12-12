@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Cars extends Vehicles {
     int oneway_count = 0;
 

@@ -1,3 +1,5 @@
+package inheritance;
+
 public class InheritanceVehicles {
     public static void main(String[] args) {
         Vehicles vehicles = new Vehicles();

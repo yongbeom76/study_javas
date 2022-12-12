@@ -1,3 +1,5 @@
+package inheritance;
+
 public class Vehicles extends Object {
     public int speed(int kms, int hours) {
         int result = kms / hours;
