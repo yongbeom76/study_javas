@@ -25,6 +25,9 @@ public class ApiExplorer2 {
     urlBuilder.append("?" + URLEncoder.encode("serviceKey", "UTF-8") + "=")
         .append("g4Undik8WRDVJemx13Et%2FHQGJuaOlJbJkWMaxXMT6okBYZqwz8YjgoZ4AMfhStQ93iWeg7OiBdymK0ya3YxGJg%3D%3D");
     urlBuilder.append("&" + URLEncoder.encode("pageNo", "UTF-8") + "=" + URLEncoder.encode("1", "UTF-8"));
+    // urlBuilder.append(URLEncoder.encode("&pageNo=1", "UTF-8")); ???? 이렇게 하면
+    // 안되는건가?
+
     urlBuilder.append("&" + URLEncoder.encode("numOfRows", "UTF-8") + "=" + URLEncoder.encode("10", "UTF-8"));
     urlBuilder.append("&" + URLEncoder.encode("type", "UTF-8") + "=" + URLEncoder.encode("xml", "UTF-8"));
 
